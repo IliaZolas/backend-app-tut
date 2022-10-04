@@ -1,0 +1,24 @@
+{
+  "name": "fullstack-react-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "bcrypt": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IliaZolas/backend-app-tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IliaZolas/backend-app-tut/issues"
+  },
+  "homepage": "https://github.com/IliaZolas/backend-app-tut#readme"
+}
