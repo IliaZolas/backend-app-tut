@@ -1,1 +1,1 @@
-web: node node-mongo-backend/fullstack-react-netlify/backend/index.js
+web: node ./backend/index.js
