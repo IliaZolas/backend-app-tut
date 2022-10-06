@@ -5,7 +5,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const dbConnect = require("./db/dbConnect");
 const User = require("./db/userModel");
-const auth = require("../auth");
+const auth = require("./auth");
 
 
 // execute database connection 
