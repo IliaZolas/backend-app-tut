@@ -1,1 +1,1 @@
-web: node backend/index.js
+web: node fullstack-react-netlify/backend/index.js
